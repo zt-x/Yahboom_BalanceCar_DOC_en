@@ -266,7 +266,7 @@
 Initialized battery voltage measurement library
 
 #### Get_Battery_Volotage(void)
-*Note: Yahboom STM32 The output range of the power supply voltage output of a balanced car is roughly between 8.5 and 12.5V*
+*Note: The power supply voltage output range of the Yahboom Self-balancing Robot is roughly between 8.5~12.5v*
 
 Get the actual battery voltage before voltage<br>
 The actual measurement value is a little lower than the value calculated<br>

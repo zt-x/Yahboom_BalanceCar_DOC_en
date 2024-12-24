@@ -266,7 +266,7 @@
 ## OLED(OLED)
 
 <div class="notice">
-    <p>The driver library uses the more universal software (simulated) IIC method to drive the OLED, but the Yahboom Smart STM32 Balance Car V2 supports hardware IIC in the hardware circuit.</p>
+    <p>The driver library uses the more universal software (simulated) IIC method to drive the OLED, but the Yahboom Self-balancing Robot V2 supports hardware IIC in the hardware circuit.</p>
     <p>The content of this chapter only introduces OLED related methods, and does not introduce the implementation of software IIC</p>
 </div>
 

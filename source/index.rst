@@ -3,7 +3,7 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Yabo Smart STM32 balance car V2.0 BSP driving database document
+Yahboom Self-balancing Robot V2.0 BSP driving database document
 ==========================================
 
 .. toctree::
@@ -22,13 +22,13 @@ Yabo Smart STM32 balance car V2.0 BSP driving database document
    button(Key)
    K210(K210)
    LED(Led)
-   lidar(Lidar)
+   radar(Lidar)
    Motor(Motor)
    MPU6050(MPU6050)
    OLED(OLED)
    PS2(PS2)
    Timer(Timer)
-   Ultrasonic(Ultrasonic)
+   ultrasound(Ultrasonic)
    Serial port(USART)
 
 
